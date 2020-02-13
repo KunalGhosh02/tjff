@@ -1,4 +1,4 @@
-import 'package:flutter/material.dart';
+ import 'package:flutter/material.dart';
 
 main () =>runApp(MyApp());
 class MyApp extends StatelessWidget {
@@ -6,13 +6,13 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context){
     return MaterialApp(
       home: Scaffold(
-        appBar: AppBar(title: Text("Hello World"),),
+        appBar: AppBar(title: Text("MY APP"),),
         body: Column(
           children: <Widget>[
-            Text("Hello World")
+            Text("Hello Saurabh")
           ],
         ),
-      ), //Scarffold
-    ); //MaterialApp
+      ), 
+    ); 
   }
 }
