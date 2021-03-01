@@ -1,4 +1,4 @@
-# tjff_d2
+# Technojam Fkutter Days (day2)
 
 A flutter project for Technojam Flutter Workshop Day 2.
 
