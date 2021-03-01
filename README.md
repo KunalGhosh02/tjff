@@ -1,4 +1,4 @@
-# Technojam Fkutter Days (day2)
+# Technojam Flutter Days (day2)
 
 A flutter project for Technojam Flutter Workshop Day 2.
 
